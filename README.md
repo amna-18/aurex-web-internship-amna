@@ -62,3 +62,172 @@ I faced some initial difficulties while setting up Git and GitHub and understand
 ## Week 1 Status
 
 **Completed:** Development setup, Git/GitHub basics, HTML5 personal profile webpage, and project documentation.
+
+AUREX Web Internship - Week 2
+
+👩‍💻 Student Information
+
+Name: Amna Qadeer
+Domain: Full-Stack Web Development
+Internship: AUREX Web Internship
+Week: 2
+
+📌 Project Overview
+
+This project is a modern and responsive personal developer portfolio website created as part of the AUREX Web Internship Week 2 assignment.
+
+The Week 1 HTML profile webpage was enhanced using CSS3 to create a professional, clean, and responsive user interface.
+
+🎨 CSS Features
+
+The following CSS features were implemented:
+
+CSS3 styling and modern design
+
+Custom typography
+
+CSS Box Model
+
+Colors, spacing, borders and shadows
+
+Hover effects
+
+Styled navigation bar
+
+Professional header section
+
+Responsive profile image
+
+Styled skills cards
+
+Styled education and experience sections
+
+Responsive contact form
+
+Button styling
+
+Media Queries
+
+Desktop, tablet and mobile responsiveness
+
+🎯 Basic UI/UX Principles
+
+The portfolio follows basic UI/UX principles to provide a clean and user-friendly experience:
+
+Visual Hierarchy: Clear headings and different font sizes highlight important content.
+
+Consistent Spacing: Consistent margins and padding are used throughout the website.
+
+Readable Typography: Clean and readable typography improves content readability.
+
+Color Choices: Professional and balanced colors are used for a better visual experience.
+
+Clean Alignments: Content and sections are properly aligned for a neat and organized layout.
+
+📐 Layout Techniques
+
+Flexbox
+
+Flexbox was used for:
+
+Navigation layout
+
+Alignment of elements
+
+Responsive navigation
+
+Centering content
+
+CSS Grid
+
+CSS Grid was used for:
+
+Main portfolio layout
+
+Skills cards
+
+Responsive content arrangement
+
+Responsive Design
+
+Media queries were added to make the website responsive for:
+
+💻 Desktop
+
+📱 Tablet
+
+📱 Mobile
+
+The layout automatically adjusts according to the screen size.
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+Flexbox
+
+CSS Grid
+
+Responsive Web Design
+
+Git
+
+GitHub
+
+📂 Project Structure
+
+aurex-web-internship-amna/
+│
+├── index.html
+├── style.css
+├── profile.jpg
+├── README.md
+└── README-Week2.md
+
+🚀 Live Deployment
+
+Live Website:
+[Add your live deployment link here]
+
+🔗 GitHub Repository
+
+Repository:
+https://github.com/amna-18/aurex-web-internship-amna
+
+📚 Key Learnings
+
+During Week 2, I learned how to:
+
+Apply CSS3 to an existing HTML webpage
+
+Create modern and professional website layouts
+
+Use Flexbox for flexible layouts
+
+Use CSS Grid for structured layouts
+
+Create responsive websites using Media Queries
+
+Improve website UI/UX
+
+Create responsive navigation
+
+Style forms, buttons and cards
+
+Test websites on desktop, tablet and mobile screens
+
+Organize and maintain a web development project using GitHub
+
+💭 Reflection
+
+During Week 2, I improved my understanding of CSS and responsive web design. I learned how to transform a basic HTML webpage into a modern and professional portfolio using CSS3, Flexbox, Grid and Media Queries.
+
+This task helped me understand how websites adapt to different screen sizes and how proper spacing, typography, colors and layout can improve the overall user experience.
+
+👩‍💻 Author
+
+Amna Qadeer
+Full-Stack Web Development Intern
+AUREX Web Internship - Week 2
