@@ -231,3 +231,151 @@ This task helped me understand how websites adapt to different screen sizes and 
 Amna Qadeer
 Full-Stack Web Development Intern
 AUREX Web Internship - Week 2
+# AUREX Web Internship – Week 3
+
+## Advanced CSS & Responsive Portfolio
+
+This project is an enhanced version of my Week 2 developer portfolio, upgraded during **Week 3 of the AUREX Full-Stack Web Engineering Internship**.
+
+The main focus of Week 3 was to improve the website using advanced CSS techniques, responsive layouts, animations, transitions, modern UI effects, and interactive elements.
+
+---
+
+## Project Overview
+
+The portfolio website presents my developer profile, technical skills, education, internship experience, projects, and contact information through a clean and responsive user interface.
+
+The Week 3 version focuses on improving the visual design and user experience while maintaining a responsive layout across desktop, tablet, and mobile devices.
+
+---
+
+## Technologies Used
+
+| Technology     | Purpose                                 |
+| -------------- | --------------------------------------- |
+| HTML5          | Website structure and semantic content  |
+| CSS3           | Styling and responsive layouts          |
+| CSS Grid       | Advanced card and section layouts       |
+| Flexbox        | Navigation and flexible alignment       |
+| CSS Variables  | Consistent colors, spacing, and styling |
+| CSS Animations | Smooth visual effects and transitions   |
+| Git            | Version control                         |
+| GitHub         | Repository management and deployment    |
+| VS Code        | Development environment                 |
+
+---
+
+## Week 3 Features
+
+### Advanced CSS
+
+* CSS Grid with `auto-fit` and `minmax()`
+* Responsive Grid layouts
+* Flexbox-based navigation
+* CSS custom properties (variables)
+* Modern spacing and typography
+* `clamp()` for responsive font sizing
+
+### UI & Visual Improvements
+
+* Modern blue gradient header
+* Card-based layout
+* Box shadows and elevation effects
+* Rounded corners
+* Hover effects
+* Smooth transitions
+* Interactive buttons
+* Focus effects for form fields
+
+### Animations & Micro-Interactions
+
+* Fade-in animations
+* Fade-up card animations
+* Hover transformations
+* Button interactions
+* Smooth scrolling
+
+### Responsive Design
+
+The website is optimized for:
+
+* Desktop
+* Tablet
+* Mobile devices
+
+The navigation and content automatically adjust according to screen size.
+
+### Dark Mode
+
+A Dark Mode button is included to provide an alternative visual theme and improve user experience.
+
+---
+
+## Website Sections
+
+* **About Me** – Personal introduction and profile image
+* **Skills** – Technical skills and technologies
+* **Education** – Educational background
+* **Experience** – Internship and learning experience
+* **Projects** – Selected projects
+* **Contact** – Contact form
+* **Footer** – Additional information and Dark Mode control
+
+---
+
+## Project Structure
+
+```text
+AUREX-Web-Internship/
+│
+├── index.html
+├── profile.png
+├── README.md
+│
+└── styles/
+    ├── main.css
+    └── animations.css
+
+## Learning Outcomes
+
+During Week 3, I strengthened my understanding of:
+
+* Advanced CSS Grid and Flexbox
+* Responsive web design
+* CSS animations and transitions
+* UI/UX improvement techniques
+* CSS variables and reusable styling
+* Modern card-based interfaces
+* Mobile-first responsive optimization
+* Git and GitHub workflow
+
+## Internship Progress
+
+| Week   | Focus                                                         |
+| ------ | ------------------------------------------------------------- |
+| Week 1 | HTML5, Semantic HTML, Accessibility & Git/GitHub              |
+| Week 2 | CSS3, Flexbox, Grid & Responsive Design                       |
+| Week 3 | Advanced CSS, Animations, UI Polish & Responsive Optimization |
+
+## Author
+
+**Amna Qadeer**
+
+Full-Stack Web Development Intern
+AUREX Web Engineering Internship
+
+---
+
+## Repository
+
+GitHub Repository:
+https://github.com/amna-18/aurex-web-internship-amna
+
+## Live Website
+
+https://amna-18.github.io/aurex-web-internship-amna/
+
+
+## Conclusion
+
+This Week 3 project demonstrates the practical application of advanced CSS techniques to transform a basic portfolio into a more polished, responsive, and interactive web experience.
